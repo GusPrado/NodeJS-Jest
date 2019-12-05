@@ -14,11 +14,12 @@
     "@types/dotenv": "^8.2.0",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.0.0",
+    "eslint-utils": "^1.4.3",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "pg": "^7.14.0",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.9.4",
+    "sequelize": "^5.21.2",
     "youch": "^2.0.10"
   },
   "devDependencies": {
